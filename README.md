@@ -9,6 +9,11 @@ El proposito del sitio web es mostrar el portafolio de proyectos de un(a) desarr
 Incluye una descripcion de su motivacion, experiencia, proyectos, articulos publicados y formas de contacto.
 
 Tambien contiene una seccion de almacenamiento de archivos *(imagenes)* que nos permiten modificar la imagen de perfil del desarrollador y contiene una animacion desarrollada con JavaScript.
+Para visualizar el portafolio se encuentra el siguiente enlace:
+
+https://dazzling-monstera-d0e911.netlify.app/
+
+![imagen]("./../imagenes/portafolio.png)
 
 ## Tecnologias
 
