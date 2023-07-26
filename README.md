@@ -13,7 +13,7 @@ Para visualizar el portafolio se encuentra el siguiente enlace:
 
 https://dazzling-monstera-d0e911.netlify.app/
 
-![imagen]("./../imagenes/portafolio.png)
+![imagen]("./../imagenes/perfil.png)
 
 ## Tecnologias
 
